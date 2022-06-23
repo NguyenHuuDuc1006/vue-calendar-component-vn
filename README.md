@@ -24,8 +24,8 @@
 ## Install
 
 ```javascript
-npm i vue-calendar-component --save
-cnpm i vue-calendar-component --save  //国内镜像
+npm i vue-calendar-component-vn --save
+cnpm i vue-calendar-component-vn --save  //国内镜像
 ```
 
 ## [github地址](https://github.com/zwhGithub/vue-calendar) 详细文档
@@ -35,7 +35,7 @@ cnpm i vue-calendar-component --save  //国内镜像
 
 ```javascript
 //vue文件中引入
-import Calendar from 'vue-calendar-component';
+import Calendar from 'vue-calendar-component-vn';
 
  components: {
     Calendar

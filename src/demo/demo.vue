@@ -21,7 +21,7 @@
 
 <script>
 // import Calendar from '../vue-calendar-component/index';
-import Calendar from "vue-calendar-component";
+import Calendar from "../vue-calendar-component-vn";
 export default {
   data() {
     return {
