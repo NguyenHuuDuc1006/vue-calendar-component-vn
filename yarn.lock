@@ -8495,6 +8495,16 @@ void-elements@^2.0.0:
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
   integrity sha512-qZKX4RnBzH2ugr8Lxa7x+0V6XD9Sb/ouARtiasEQCHB1EVU4NXtmHsDDrx1dO4ne5fc3J6EW05BP1Dl0z0iung==
 
+vue-calendar-component-vn@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vue-calendar-component-vn/-/vue-calendar-component-vn-1.0.1.tgz#2a5eef4cdf133f499ebf00be6d51a246cb118a6f"
+  integrity sha512-eNOEw+8RMPDrKtiPxnaOtK8ckTjA9AezRC1YIvBttgNcK9oZprES2x8ew40Djz5LvqIKOri97ijxz/IUrXZXQw==
+  dependencies:
+    vue "^2.5.2"
+    vue-calendar-component "^2.8.2"
+    vue-router "^3.0.1"
+    vue-toast-component "^2.0.0"
+
 vue-calendar-component@^2.8.2:
   version "2.8.2"
   resolved "https://registry.yarnpkg.com/vue-calendar-component/-/vue-calendar-component-2.8.2.tgz#8f60c05a72c8aacbdd224016f4e1a96664abd8aa"
